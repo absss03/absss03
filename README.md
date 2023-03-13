@@ -9,7 +9,7 @@
 * Argentina programa :computer:
   - [x] 1er etapa #SéProgramar
   - [ ] 2da etapa #YoProgramo
-  (actuamente speedrunning el tp final me quedan dos emanas :cold_face: )
+  (actuamente haciendo speedrun del el tp final me quedan dos emanas :cold_face:)
 
 #### Ademas
 [Hago remo en el club de regatas bariloche](https://www.bariloche2000.com/noticias/leer/bonaerenses-mendocinos-correntinos-santafesinos-y-locales-remaron-en-el-nahuel-huapi/140010) :1st_place_medal: :3rd_place_medal:
